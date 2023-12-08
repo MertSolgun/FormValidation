@@ -1,0 +1,7 @@
+.mainCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px auto;
+  gap: 10px;
+}
